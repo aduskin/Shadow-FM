@@ -4,8 +4,6 @@
 # 坚持给时间一点时间
 这个世界虽然不完美，但我们仍然可以疗愈自己
 
-下载链接： https://share.weiyun.com/53lS3lF （密码：nGRS）
-
 一款由AduSkin设计开发的WPF桌面应用程序。
 
 1、完美支持迷你模式。
@@ -31,6 +29,7 @@ Copyright of broadcast content is owned by Psychological FM
 页面功能
 
 function
+![image](https://github.com/Hero3821/Shadow-FM/blob/master/ScreenShot/Shadow%20(7).png)
 
 ![image](https://github.com/Hero3821/Shadow-FM/blob/master/ScreenShot/Shadow%20(1).png)
 
