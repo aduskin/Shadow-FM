@@ -10,6 +10,9 @@
 
 2、支持桌面壁纸功能。(如果无法开启桌面壁纸，先关闭360和其他桌面壁纸或者桌面管理软件再使用)
 
+### 下载使用
+[下载软件](https://github.com/aduskin/Shadow-FM/releases)
+
 特别鸣谢
 
 Special Thanks
